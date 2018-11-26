@@ -1,0 +1,14 @@
+#title {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: red;
+}
+
+#rules {
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+#score-announce {
+    font-family: 'Open Sans', sans-serif;
+}
