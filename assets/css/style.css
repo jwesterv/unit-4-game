@@ -7,6 +7,7 @@
 #rules {
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
+    letter-spacing: 0.1em;
 }
 
 #score-announce {
